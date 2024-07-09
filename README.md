@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realakash140&label=Profile%20views&color=0e75b6&style=flat" alt="realakash140" /> </p>
 
-<p align="left"> <img src="akash.jpg&label=Profile%20views&color=0e75b6&style=flat" alt="realakash140" /> </p>
+<p align="left"> <img src="akash.jpg&label=Profile%20views style=flat" alt="realakash140" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realakash140" alt="realakash140" /></a> </p>
 
