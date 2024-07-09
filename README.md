@@ -13,7 +13,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realakash140" alt="realakash140" /></a>
 </p>
 
-<img align="left" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/data_inform_illustration_animation.gif" width="200" />
+<img align="right" alt="coding" width="400" src=https://cdn.dribbble.com/users/8619169/screenshots/16116886/data_inform_illustration_animation.gif>
 
 - 🌱 I’m currently learning **Data Science**
 
