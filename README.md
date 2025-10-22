@@ -15,7 +15,7 @@
 
 <img align="right" alt="coding" width="400" src=https://cdn.dribbble.com/users/8619169/screenshots/16116886/data_inform_illustration_animation.gif>
 
-- 🌱 II’m currently working as a **Data Engineer** **
+- 🌱 I’m currently working as a **Data Engineer** **
 
 - 👯 *Currently exploring **Data Pipelines | Cloud Data Warehousing | ETL Tools*
 
