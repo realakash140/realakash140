@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Srivastava</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Engineer from India</h3>
 
 <p align="center">
   <img src="akash.jpg" alt="Akash Srivastava" width="200" />
@@ -15,17 +15,35 @@
 
 <img align="right" alt="coding" width="400" src=https://cdn.dribbble.com/users/8619169/screenshots/16116886/data_inform_illustration_animation.gif>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 II’m currently working as a **Data Engineer** **
 
-- 👯 I’m looking to collaborate on **Data Science Learning journey**
+- 👯 *Currently exploring **Data Pipelines | Cloud Data Warehousing | ETL Tools*
 
 - 👨‍💻 All of my projects are available at [https://github.com/realakash140?tab=repositories](https://github.com/realakash140?tab=repositories)
 
-- 💬 Ask me about **Java | Python | Data Science**
+- 💬 Skilled in **SQL, Power BI, DAX, Python, Airbyte, dbt, n8n**
+- 📊 Experienced in **Dashboarding & Business Intelligence** (Power BI, Sigma)
+- 🏗️ Building end-to-end data solutions from **ingestion → transformation → visualization**
+-  ⚡ Passionate about **AI + Data Engineering** 
+- 📫 How to reach me **akaysri999@gmail.com**
 
-- 📫 How to reach me **akaycreates@gmail.com**
+---
+### 🛠️ Tech Stack
+**Languages & Querying:**  
+SQL | Python | DAX 
 
-- ⚡ Fun fact **I am a cool guy**
+**Data Engineering Tools:**  
+Airbyte | dbt | Apache Airflow | Power Automate
+
+**Visualization & BI:**  
+Power BI | Sigma | Looker Studio
+
+**Databases & Warehousing:**  
+MySQL | Snowflake | Databricks (learning)
+
+**Others:**  
+Git | GitHub | APIs | n8n
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
